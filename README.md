@@ -36,7 +36,7 @@ python formula1.py
 
 ## Oppure scarica l'exe
 
-Se sei su Windows puoi scaricare direttamente l'eseguibile dalla sezione [Releases](https://github.com/tuousername/formulapy/releases) senza installare nulla.
+Se sei su Windows puoi scaricare direttamente l'eseguibile dalla sezione [Releases](https://github.com/Stormy-byte/FormulaPy/releases) senza installare nulla.
 
 ## Funzionalità
 
